@@ -1,0 +1,11 @@
+
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp2s0:
+      dhcp4: false
+  bridges:
+    br0:
+      interfaces: [enp2s0]
+      dhcp4: true

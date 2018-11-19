@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+set sock [lindex $argv 0]
+set timeout 10
+spawn nc -U $sock
+expect "QMP"
+send "{ 'execute': 'qmp_capabilities' }\n"
+expect "return"
+send "{ 'execute': 'system_powerdown' }\n"
+expect "SHUTDOWN"
+

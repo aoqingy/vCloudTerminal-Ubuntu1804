@@ -1,0 +1,14 @@
+1. Ubuntu Proceed File
+2. Boot Up Speed
+3. Network boot failed (Ubuntu 18.04 & vClassTerminal 1.16.10)
+4. USB auto-shared when connecting to VDI desktop
+5. Serial Port used when starting IDV desktop on boot
+6. ShiYanLou
+7. Run firefox without Gnome
+8. VMware ESXi
+9. vGPU under KVM
+10. VDI & IDV Sychronization
+
+
+http://blog.fens.me/vpn-pptp-client-ubuntu/
+Ubuntu通过PPTP协议使用VPN

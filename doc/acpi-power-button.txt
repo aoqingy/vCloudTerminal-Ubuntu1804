@@ -1,0 +1,2 @@
+https://askubuntu.com/questions/86376/how-to-specify-power-button-to-do-a-shutdown-h-now-instead-of-graphical-shutd
+https://www.itsupportguides.com/knowledge-base/ubuntu/ubuntu-how-to-shutdown-when-power-button-pressed/
